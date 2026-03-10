@@ -1,0 +1,11 @@
+langgraph
+pandas
+networkx
+matplotlib
+tqdm
+scipy
+torch
+torch_geometric
+transformers
+accelerate
+bitsandbytes
